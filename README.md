@@ -63,8 +63,7 @@ Here are sample integration diagrams I created to illustrate security workflows:
 ---
 
 ## 📬 Contact
-- **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** [Your Email]  
-- **GitHub:** [Your GitHub Link]  
+- **LinkedIn:** https://www.linkedin.com/in/abdulkadir-akinsola-b24984140/
+- **GitHub:** https://github.com/abdulkadirakinsola
 
 ---
